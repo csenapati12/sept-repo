@@ -20,6 +20,7 @@ node(){
     }
      stage('Dockerverification'){
         echo "Docker verification"
+         
      }
   
 }
