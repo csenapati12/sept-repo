@@ -18,5 +18,8 @@ node(){
         echo "sonar"
         
     }
+     stage('Dockerverification'){
+        echo "Docker verification"
+     }
   
 }
